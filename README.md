@@ -1,4 +1,4 @@
-# Puppet Windows Set-Up
+# Puppet RedHat Set-Up
 A simple module to install and configure a simple RedHat environment.
 
 ## What It Does:
