@@ -1,0 +1,22 @@
+{
+  "name": "flaniga3-redhat_setup",
+  "version": "0.1.0",
+  "author": "Joseph Flanigan",
+  "summary": "Performs a simple RedHat setup, installing utilities and updating settings.",
+  "license": "Apache-2.0",
+  "source": "https://github.com/Flaniga3/puppet-redhat_setup.git",
+  "project_page": "https://github.com/Flaniga3/puppet-redhat_setup.git",
+  "dependencies": [
+  ],
+  "operatingsystem_support": [
+    {
+      "operatingsystem": "RedHat"
+    }
+  ],
+  "requirements": [
+    {
+      "name": "puppet",
+      "version_requirement": ">= 4.5.0 < 6.0.0"
+    }
+  ]
+}
